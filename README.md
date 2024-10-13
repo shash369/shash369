@@ -2,12 +2,19 @@
 <h1 align="center">Hi 👋, I'm Shashwat Shukla</h1>
 <h3 align="center">College student by day,Coder by night.</h3>
 
+<div align="center">
+   <img align="right" height="159" 
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV2bTdnOWZ4Z21wMXYyZWZneHQ4MTgwYXM1dHlpend5b2wwbWpmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif"  />
+</div>  
+
 
 - 🔭 Currently, I'm trying to figure out what my code is trying to do.
 - 💻 Looking for Web-Dev projects to collaborate on. I promise to only break the code once or twice.
 - 😴 Ask me about my sleep schedule, and I'll tell you that I'm either sleeping too much or not enough.
 - 📫 Reach me at shashwatforscol@gmail.com. Don't worry, I promise to reply as soon as I'm done procrastinating.
 - ⚡ Fun fact:I think I'm Rookie at coding. But if you ask my computer, it might tell you otherwise.
+
+ <br />
 
 ###
 # Holopin Profile
@@ -50,7 +57,6 @@
 
 ###
 
-<img align="right" height="149" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV2bTdnOWZ4Z21wMXYyZWZneHQ4MTgwYXM1dHlpend5b2wwbWpmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif"  />
 
 ###
 
