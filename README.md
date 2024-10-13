@@ -1,6 +1,6 @@
 # 
 <h1 align="center">Hi 👋, I'm Shashwat Shukla</h1>
-<h3 align="center">College student by day,coder by night.</h3>
+<h3 align="center">College student by day,Coder by night.</h3>
 
 
 - 🔭 Currently, I'm trying to figure out what my code is trying to do.
