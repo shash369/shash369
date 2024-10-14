@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shashwat Shukla</h1>
 <h3 align="center">College student by day,Coder by night.</h3>
 
+
 <div align="center">
    <img align="right" height="159" 
     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV2bTdnOWZ4Z21wMXYyZWZneHQ4MTgwYXM1dHlpend5b2wwbWpmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif"  />
@@ -17,7 +18,7 @@
  <br />
 
 ###
-# Holopin Profile
+# Digital badges
 [![My Holopin Badge](https://holopin.me/shash369)](https://holopin.io/@shash369)
 
 <br />
@@ -46,7 +47,7 @@
 </div>
 
 ###
-
+<h1 align="left">Languages and Tools:</h1>
 <div align="center">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nodejs,nextjs,postman&theme=light" />
