@@ -36,15 +36,28 @@
 🌃 Evening                400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 🌙 Night                  1659 commits        ██████████████░░░░░░░░░░░   54.00 %
 ```
-
-
-<br/>
+</p>
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shash369&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shash369&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=shash369&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+<!-- 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shashwatshukla?theme=dark&font=Nunito&ext=heatmap" />  
+
+-->
 
 ###
 <h1 align="left">Languages and Tools:</h1>
