@@ -45,7 +45,7 @@
   <img src="https://streak-stats.demolab.com?user=shash369&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-<!-- 
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
@@ -57,7 +57,7 @@
   
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shashwatshukla?theme=dark&font=Nunito&ext=heatmap" />  
 
--->
+
 
 ###
 <h1 align="left">Languages and Tools:</h1>
