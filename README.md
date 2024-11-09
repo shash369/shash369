@@ -23,6 +23,19 @@
 
 <br />
 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shashwatshukla?theme=dark&font=Nunito&ext=heatmap" />  
+
+<br />
+
 |me_IRL|JOKE OF THE DAY|NOW LISTENING...|
 |--|--|--|
 | <img width="100%" src="https://user-images.githubusercontent.com/92238941/232341313-0afb44cd-800d-44bb-b75a-de4c0edada18.gif" /> | <img width="100%" align="right" src="https://readme-jokes.vercel.app/api" alt="README Jokes"> | <img width="100%" src="https://novatorem.vercel.app/api/spotify" /> |
@@ -46,16 +59,7 @@
 </div>
 
 
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/shashwatshukla/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-<p align="center">
-  
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shashwatshukla?theme=dark&font=Nunito&ext=heatmap" />  
+
 
 
 
